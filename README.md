@@ -931,10 +931,9 @@ Chapter 11 Game Technology
 3.Test Specification: Implement unit tests, integration tests, and system tests to ensure the quality of your game.
 4.Release specifications: Follow the app store's release guidelines to ensure a smooth launch of your game.
 Game engines
-1.The game's game engine is Godot C#.
-2.Cross-platform support: Godot supports multi-platform distribution, including Android and iOS.
-3.Open-source and free: Godot is an open-source engine with flexible customization capabilities.
-4.C# support: Godot's C# support makes development more efficient and easy to use with existing C# libraries.
+1.The game's game engine is unity.
+2.including Android and iOS.
+4.C# support:C# support makes development more efficient and easy to use with existing C# libraries.
 networking
 1.The game is networked using a client-server (C/S) architecture.
 2.Efficient and stable: The C/S architecture can achieve efficient and stable data transmission.
